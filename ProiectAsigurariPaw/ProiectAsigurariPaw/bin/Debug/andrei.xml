@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TomozeiuAndrei>
+  <PopescuAndrei>
+    <Asig 1 data_inceput="21-May-19 12:00:00 AM" prima="500" comision="0" valabilitate="12 luni">Asigurare viata</Asig 1>
+    <Asig 2 data_inceput="22-May-18 12:00:00 AM" prima="280" comision="0" valabilitate="12 luni">Asigurare bunuri</Asig 2>
+  </PopescuAndrei>
+  <IonescuMihaela>
+    <Asig 1 data_inceput="04-May-19 12:00:00 AM" prima="325" comision="0" valabilitate="12 luni">Asigurare viata</Asig 1>
+    <Asig 2 data_inceput="22-May-19 12:00:00 AM" prima="250" comision="0" valabilitate="12 luni">Asigurare bunuri</Asig 2>
+  </IonescuMihaela>
+  <PetrescuGigel>
+    <Asig 1 data_inceput="21-May-19 12:00:00 AM" prima="350" comision="0" valabilitate="12 luni">Asigurare bunuri</Asig 1>
+  </PetrescuGigel>
+  <VelPitar>
+    <Asig 1 data_inceput="23-May-19 12:00:00 AM" prima="1500" comision="0" valabilitate="12 luni">Asigurare viata</Asig 1>
+    <Asig 2 data_inceput="22-Nov-18 12:00:00 AM" prima="1200" comision="0" valabilitate="6 luni">Asigurare bunuri</Asig 2>
+  </VelPitar>
+  <Nivea>
+    <Asig 1 data_inceput="21-May-19 12:00:00 AM" prima="1600" comision="0" valabilitate="12 luni">Asigurare viata</Asig 1>
+  </Nivea>
+  <Renault>
+    <Asig 1 data_inceput="21-May-19 12:00:00 AM" prima="1250" comision="0" valabilitate="12 luni">Asigurare bunuri</Asig 1>
+  </Renault>
+</TomozeiuAndrei>

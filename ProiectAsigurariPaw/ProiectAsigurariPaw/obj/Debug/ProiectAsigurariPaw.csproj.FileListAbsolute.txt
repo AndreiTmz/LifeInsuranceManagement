@@ -1,0 +1,86 @@
+E:\Cursuri\An2 Sem2\PAW\Seminar\PAW Proiect Asigurari\ProiectAsigurariPaw\ProiectAsigurariPaw\bin\Debug\ProiectAsigurariPaw.exe.config
+E:\Cursuri\An2 Sem2\PAW\Seminar\PAW Proiect Asigurari\ProiectAsigurariPaw\ProiectAsigurariPaw\bin\Debug\ProiectAsigurariPaw.exe
+E:\Cursuri\An2 Sem2\PAW\Seminar\PAW Proiect Asigurari\ProiectAsigurariPaw\ProiectAsigurariPaw\bin\Debug\ProiectAsigurariPaw.pdb
+E:\Cursuri\An2 Sem2\PAW\Seminar\PAW Proiect Asigurari\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.Properties.Resources.resources
+E:\Cursuri\An2 Sem2\PAW\Seminar\PAW Proiect Asigurari\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.csproj.GenerateResource.cache
+E:\Cursuri\An2 Sem2\PAW\Seminar\PAW Proiect Asigurari\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.csproj.CoreCompileInputs.cache
+E:\Cursuri\An2 Sem2\PAW\Seminar\PAW Proiect Asigurari\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.exe
+E:\Cursuri\An2 Sem2\PAW\Seminar\PAW Proiect Asigurari\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.pdb
+E:\Cursuri\An2 Sem2\PAW\Seminar\PAW Proiect Asigurari\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.csprojAssemblyReference.cache
+E:\Cursuri\An2 Sem2\PAW\Seminar\PAW Proiect Asigurari\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.Form1_Login.resources
+E:\Cursuri\An2 Sem2\PAW\Seminar\PAW Proiect Asigurari\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.Form2_Clienti.resources
+E:\Cursuri\An2 Sem2\PAW\Seminar\PAW Proiect Asigurari\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.Form3_Asigurari.resources
+E:\Cursuri\An2 Sem2\PAW\Seminar\PAW Proiect Asigurari\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.Form4_adauga_utilizator.resources
+E:\Cursuri\An2 Sem2\PAW\Seminar\PAW Proiect Asigurari\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.Form5_vezi_utilizatori.resources
+E:\Cursuri\An2 Sem2\PAW\Seminar\PAW Proiect Asigurari\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.Form6_adauga_client.resources
+E:\Cursuri\An2 Sem2\PAW\Seminar\PAW Proiect Asigurari\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.Form7_adauga_asigurare.resources
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\ProiectAsigurariPaw\ProiectAsigurariPaw\bin\Debug\ProiectAsigurariPaw.exe.config
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\ProiectAsigurariPaw\ProiectAsigurariPaw\bin\Debug\ProiectAsigurariPaw.exe
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\ProiectAsigurariPaw\ProiectAsigurariPaw\bin\Debug\ProiectAsigurariPaw.pdb
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.Form1_Login.resources
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.Form2_Clienti.resources
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.Form3_Asigurari.resources
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.Form4_adauga_utilizator.resources
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.Form5_vezi_utilizatori.resources
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.Form6_adauga_client.resources
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.Form7_adauga_asigurare.resources
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.Properties.Resources.resources
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.csproj.GenerateResource.cache
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.csproj.CoreCompileInputs.cache
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.exe
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.pdb
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.csprojAssemblyReference.cache
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.Form8_setari.resources
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.Form9_grafice.resources
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\ProiectAsigurariPaw\ProiectAsigurariPaw\bin\Debug\WindowsFormsControlLibrary1.dll
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\ProiectAsigurariPaw\ProiectAsigurariPaw\bin\Debug\WindowsFormsControlLibrary1.pdb
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.csproj.CopyComplete
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\ProiectAsigurariPaw\ProiectAsigurariPaw\bin\Debug\SearchUserControl.dll
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\ProiectAsigurariPaw\ProiectAsigurariPaw\bin\Debug\SearchUserControl.pdb
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.Form10_emailPass.resources
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\Proiect\ProiectPawTomozeiuAndrei\ProiectAsigurariPaw\ProiectAsigurariPaw\bin\Debug\ProiectAsigurariPaw.exe.config
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\Proiect\ProiectPawTomozeiuAndrei\ProiectAsigurariPaw\ProiectAsigurariPaw\bin\Debug\ProiectAsigurariPaw.exe
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\Proiect\ProiectPawTomozeiuAndrei\ProiectAsigurariPaw\ProiectAsigurariPaw\bin\Debug\ProiectAsigurariPaw.pdb
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\Proiect\ProiectPawTomozeiuAndrei\ProiectAsigurariPaw\ProiectAsigurariPaw\bin\Debug\SearchUserControl.dll
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\Proiect\ProiectPawTomozeiuAndrei\ProiectAsigurariPaw\ProiectAsigurariPaw\bin\Debug\SearchUserControl.pdb
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\Proiect\ProiectPawTomozeiuAndrei\ProiectAsigurariPaw\ProiectAsigurariPaw\bin\Debug\WindowsFormsControlLibrary1.pdb
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\Proiect\ProiectPawTomozeiuAndrei\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.csprojAssemblyReference.cache
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\Proiect\ProiectPawTomozeiuAndrei\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.Form10_emailPass.resources
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\Proiect\ProiectPawTomozeiuAndrei\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.Form1_Login.resources
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\Proiect\ProiectPawTomozeiuAndrei\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.Form2_Clienti.resources
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\Proiect\ProiectPawTomozeiuAndrei\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.Form3_Asigurari.resources
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\Proiect\ProiectPawTomozeiuAndrei\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.Form4_adauga_utilizator.resources
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\Proiect\ProiectPawTomozeiuAndrei\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.Form5_vezi_utilizatori.resources
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\Proiect\ProiectPawTomozeiuAndrei\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.Form6_adauga_client.resources
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\Proiect\ProiectPawTomozeiuAndrei\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.Form7_adauga_asigurare.resources
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\Proiect\ProiectPawTomozeiuAndrei\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.Form8_setari.resources
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\Proiect\ProiectPawTomozeiuAndrei\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.Form9_grafice.resources
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\Proiect\ProiectPawTomozeiuAndrei\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.Properties.Resources.resources
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\Proiect\ProiectPawTomozeiuAndrei\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.csproj.GenerateResource.cache
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\Proiect\ProiectPawTomozeiuAndrei\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.csproj.CoreCompileInputs.cache
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\Proiect\ProiectPawTomozeiuAndrei\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.csproj.CopyComplete
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\Proiect\ProiectPawTomozeiuAndrei\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.exe
+E:\Cursuri\An2 Sem2\PAW\Seminar\Proiect Remake\Proiect\ProiectPawTomozeiuAndrei\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.pdb
+D:\Proiecte GitHub\Proiect C#\Proiect\ProiectPawTomozeiuAndrei\ProiectAsigurariPaw\ProiectAsigurariPaw\bin\Debug\ProiectAsigurariPaw.exe.config
+D:\Proiecte GitHub\Proiect C#\Proiect\ProiectPawTomozeiuAndrei\ProiectAsigurariPaw\ProiectAsigurariPaw\bin\Debug\ProiectAsigurariPaw.exe
+D:\Proiecte GitHub\Proiect C#\Proiect\ProiectPawTomozeiuAndrei\ProiectAsigurariPaw\ProiectAsigurariPaw\bin\Debug\ProiectAsigurariPaw.pdb
+D:\Proiecte GitHub\Proiect C#\Proiect\ProiectPawTomozeiuAndrei\ProiectAsigurariPaw\ProiectAsigurariPaw\bin\Debug\SearchUserControl.dll
+D:\Proiecte GitHub\Proiect C#\Proiect\ProiectPawTomozeiuAndrei\ProiectAsigurariPaw\ProiectAsigurariPaw\bin\Debug\SearchUserControl.pdb
+D:\Proiecte GitHub\Proiect C#\Proiect\ProiectPawTomozeiuAndrei\ProiectAsigurariPaw\ProiectAsigurariPaw\bin\Debug\WindowsFormsControlLibrary1.pdb
+D:\Proiecte GitHub\Proiect C#\Proiect\ProiectPawTomozeiuAndrei\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.csprojAssemblyReference.cache
+D:\Proiecte GitHub\Proiect C#\Proiect\ProiectPawTomozeiuAndrei\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.Form10_emailPass.resources
+D:\Proiecte GitHub\Proiect C#\Proiect\ProiectPawTomozeiuAndrei\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.Form1_Login.resources
+D:\Proiecte GitHub\Proiect C#\Proiect\ProiectPawTomozeiuAndrei\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.Form2_Clienti.resources
+D:\Proiecte GitHub\Proiect C#\Proiect\ProiectPawTomozeiuAndrei\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.Form3_Asigurari.resources
+D:\Proiecte GitHub\Proiect C#\Proiect\ProiectPawTomozeiuAndrei\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.Form4_adauga_utilizator.resources
+D:\Proiecte GitHub\Proiect C#\Proiect\ProiectPawTomozeiuAndrei\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.Form5_vezi_utilizatori.resources
+D:\Proiecte GitHub\Proiect C#\Proiect\ProiectPawTomozeiuAndrei\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.Form6_adauga_client.resources
+D:\Proiecte GitHub\Proiect C#\Proiect\ProiectPawTomozeiuAndrei\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.Form7_adauga_asigurare.resources
+D:\Proiecte GitHub\Proiect C#\Proiect\ProiectPawTomozeiuAndrei\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.Form8_setari.resources
+D:\Proiecte GitHub\Proiect C#\Proiect\ProiectPawTomozeiuAndrei\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.Form9_grafice.resources
+D:\Proiecte GitHub\Proiect C#\Proiect\ProiectPawTomozeiuAndrei\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.Properties.Resources.resources
+D:\Proiecte GitHub\Proiect C#\Proiect\ProiectPawTomozeiuAndrei\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.csproj.GenerateResource.cache
+D:\Proiecte GitHub\Proiect C#\Proiect\ProiectPawTomozeiuAndrei\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.csproj.CoreCompileInputs.cache
+D:\Proiecte GitHub\Proiect C#\Proiect\ProiectPawTomozeiuAndrei\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.csproj.CopyComplete
+D:\Proiecte GitHub\Proiect C#\Proiect\ProiectPawTomozeiuAndrei\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.exe
+D:\Proiecte GitHub\Proiect C#\Proiect\ProiectPawTomozeiuAndrei\ProiectAsigurariPaw\ProiectAsigurariPaw\obj\Debug\ProiectAsigurariPaw.pdb
